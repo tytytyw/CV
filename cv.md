@@ -14,7 +14,6 @@
 - JavaScript
 - React
 
--
 ## Code example
 ```
   const [items, setItems] = useState(initialState.items);
@@ -61,7 +60,10 @@
   };
  ```
 ## Experience
-- 
+- [React-app: to do list](https://tytytyw.github.io/todo/#/)
+- [HTML/CSS landing](https://tytytyw.github.io/tesla/)
+- [Card game: find a bag](https://tytytyw.github.io/findbug/)
+- [HTML/CSS/JS landing with slider](https://tytytyw.github.io/App.Creation/)
 
 ## Education
 - Git/HTLM/CSS/JS/React courses in Web Hero School
