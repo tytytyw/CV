@@ -1,13 +1,13 @@
 # Kolesnikov Dmitriy
 
 ## Contacts
-(https://t.me/tytytyw telegram)
-(https://vk.com/tytytyw vk)
-(https://www.linkedin.com/in/tytytyw linkedin)
+[Telegram](https://t.me/tytytyw "write to telegram")
+[VK](https://vk.com/tytytyw "vk profile")
+[Linkedin](https://www.linkedin.com/in/tytytyw "linkedin profile")
 
 ## About
 
-##Skills
+## Skills
 
 -
 ## Code example
@@ -21,3 +21,5 @@
 -
 
 ## English
+
+Pre-inte
