@@ -7,6 +7,7 @@
 
 ## About
 
+I started studying Frontend development at the end of 2018 and completed online courses on HTML/ CSS / JS / React / Git technologies. I like to learn new things and solve complex problems
 ## Skills
 - Git
 - HTML
