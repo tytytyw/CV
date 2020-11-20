@@ -1,1 +1,1 @@
-https://tytytyw.github.io/rsschool-cv/cv
+https://tytytyw.github.io/CV/
